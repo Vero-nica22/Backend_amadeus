@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mcver\\Downloads\\ProyectoA\\backendgrupo4\\ExtraHours.API\\wwwroot\\profile-pictures\\c2b9b3e3-c4cc-4e20-bb1e-44790cedfe17_taza_de_cafe1.png",
+      "PackagePath": "staticwebassets\\profile-pictures\\c2b9b3e3-c4cc-4e20-bb1e-44790cedfe17_taza_de_cafe1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExtraHours.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExtraHours.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ExtraHours.API.props",
+      "PackagePath": "build\\ExtraHours.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ExtraHours.API.props",
+      "PackagePath": "buildMultiTargeting\\ExtraHours.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ExtraHours.API.props",
+      "PackagePath": "buildTransitive\\ExtraHours.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
